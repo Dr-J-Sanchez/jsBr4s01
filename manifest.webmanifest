@@ -1,0 +1,17 @@
+{
+  "name": "aayu",
+  "short_name": "aayu",
+  "description": "Conjugación de verbos en portugués de Brasil",
+  "lang": "es",
+  "start_url": "./PR.html",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": ["fullscreen", "standalone"],
+  "orientation": "any",
+  "background_color": "#eef3f1",
+  "theme_color": "#0b6e5a",
+  "icons": [
+    { "src": "icons/apple-touch-icon.png", "sizes": "180x180", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
